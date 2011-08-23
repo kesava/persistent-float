@@ -3,11 +3,11 @@ Persistent Float is a jQuery plugin that makes an HTMl element float on a page a
 
 ## Examples
 
-<pre>
+@
 jQuery('#floating-footer').pfloat({
 	lock_height: 860, 
 	initial_position_x: jQuery(window).height() - 40, 
 	initial_position_y: -5, 
 	width: jQuery(window).width()
 });
-</pre>
+@
