@@ -1,7 +1,8 @@
-# persistent-float
+h1. persistent-float
+
 Persistent Float is a jQuery plugin that makes an HTMl element float on a page at a specified lock height.
 
-## Examples
+h1. Examples
 
 @
 jQuery('#floating-footer').pfloat({
